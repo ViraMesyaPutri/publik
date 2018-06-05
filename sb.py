@@ -36,7 +36,7 @@ while True:
                         pass
                 else:
                     pass
-            elif op.type == 25:
+            elif op.type == 26:
                 msg = op.message
                 text = msg.text
                 msg_id = msg.id
